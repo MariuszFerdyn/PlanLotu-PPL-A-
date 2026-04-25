@@ -23,7 +23,14 @@ Celem projektu jest stworzenie arkusza **Excel**, który – po podaniu trasy lo
 ## 📂 Obecny stan repozytorium
 
 - ✅ **Zebrane punkty VFR** – lista punktów raportowania stosowanych w polskiej przestrzeni powietrznej,
-- ✅ **Template Planu Lotu** – szablon arkusza z nagłówkami kolumn i przykładowym układem.
+- ✅ **Template Planu Lotu** – szablon arkusza z nagłówkami kolumn i przykładowym układem,
+- ✅ **FlightPlan_Automatic** – arkusz, który **automatycznie oblicza odległość między punktami trasy** na podstawie ich współrzędnych. Wkrótce również: automatyczne obliczanie kursu (MT/MH), czasu przelotu, zużycia paliwa i pozostałych parametrów.
+
+---
+
+## 🖼️ Przykład – FlightPlan_Automatic
+
+![Przykładowy plan lotu](images/flight_plan_example.png)
 
 ---
 
