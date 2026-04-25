@@ -37,7 +37,7 @@ Celem projektu jest stworzenie arkusza **Excel**, który – po podaniu trasy lo
 ## 🗺️ Roadmapa
 
 - [ ] Dodanie formuł Excela do automatycznego przeliczania kursów (KG → KM → KB),
-- [ ] Przeliczanie odległości na podstawie współrzędnych punktów VFR,
+- [X] Przeliczanie odległości na podstawie współrzędnych punktów VFR,
 - [ ] Uwzględnienie wiatru i wyliczanie kąta znoszenia,
 - [ ] Automatyczne wyliczanie czasu przelotu,
 - [ ] Automatyczne wyliczanie zapotrzebowania na paliwo (z rezerwą),
