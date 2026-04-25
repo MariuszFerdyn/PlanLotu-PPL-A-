@@ -30,7 +30,7 @@ Celem projektu jest stworzenie arkusza **Excel**, który – po podaniu trasy lo
 
 ## 🖼️ Przykład – FlightPlan_Automatic
 
-![Przykładowy plan lotu](images/flight_plan_example.png)
+![Przykładowy plan lotu](images/flight_plan_example.jpg)
 
 ---
 
