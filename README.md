@@ -7,7 +7,6 @@ Celem projektu jest stworzenie arkusza **Excel**, który – po podaniu trasy lo
 - **Kurs Geograficzny (KG)** – kurs zmierzony na mapie względem północy geograficznej,
 - **Deklinacja magnetyczna (d)** – poprawka wynikająca z różnicy między północą geograficzną a magnetyczną,
 - **Kurs Magnetyczny (KM)** – `KG ± d`,
-- **Odchyłka busoli (δ)** – błąd własny busoli samolotu,
 - **Kurs Busoli (KB)** – `KM ± δ`,
 - **Odległość (NM)** – odległość między kolejnymi punktami trasy,
 - **Prędkość rzeczywista (TAS)** – na podstawie podanej prędkości wskazanej i warunków atmosferycznych,
